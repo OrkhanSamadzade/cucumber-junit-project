@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Web table user order feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 40.867 s <<< FAILURE! - in Web table user order feature
+Web table user order feature.User should be able to place order and order seen in web table with using DDT  Time elapsed: 23.052 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Cannot locate element with text: <productType>
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Orkhans-MacBook-Pro.local', ip: '2603:7080:8140:c200:0:0:0:3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.5', java.version: '11.0.12'
+Driver info: driver.version: unknown
+
